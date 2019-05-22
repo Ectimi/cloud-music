@@ -1,35 +1,14 @@
-<<<<<<< HEAD
+
 # cloudMusic
+这是一个音乐类webapp，仅为学习使用
+
+该项目使用的API为 https://github.com/Binaryify/NeteaseCloudMusicApi
+使用前请先下载API接口文件并按其要求运行
+
+##使用方法
+
+###npm install
+
+###npm run serve
 
 
-=======
-# cloud-music
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> cloudMusic
