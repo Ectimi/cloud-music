@@ -5,10 +5,10 @@
 该项目使用的API为 https://github.com/Binaryify/NeteaseCloudMusicApi
 使用前请先下载API接口文件并按其要求运行
 
-##使用方法
+## 使用方法
 
-###npm install
+### npm install
 
-###npm run serve
+### npm run serve
 
 
